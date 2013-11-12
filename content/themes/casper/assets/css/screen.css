@@ -392,6 +392,8 @@ table.plain {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
+    color: #08c;
+    text-shadow: 0px 0px 5px #fff; 
 }
 
 .blog-description {
@@ -401,6 +403,8 @@ table.plain {
     font-weight: 300;
     font-family: 'Droid Serif', serif;
     letter-spacing: 0;
+    color: #08c;
+    text-shadow: 0px 0px 5px #fff; 
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
