@@ -932,7 +932,40 @@ table.plain {
 
 }
 
+img .small {
+  width:150px;
+  margin: 10px;
+}
+
+img .med {
+  width:300px;
+  margin: 10px;
+}
+
+img .large {
+  width:500px;
+  margin: 10px;
+}
+
+img .left {
+  float: left;
+}
+
+img .right {
+  float: right;
+}
+
+img .center {
+  margin: 0 auto;
+}
+
+.caption {
+  font-size: -2px;
+}
+
 /* ==========================================================================
    End of file. Media queries should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
    ========================================================================== */
+
+
