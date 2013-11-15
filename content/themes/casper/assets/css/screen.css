@@ -936,30 +936,30 @@ table.plain {
 
 }
 
-img .small {
+img.small {
   width:150px;
   margin: 10px;
 }
 
-img .med {
+img.med {
   width:300px;
   margin: 10px;
 }
 
-img .large {
+img.large {
   width:500px;
   margin: 10px;
 }
 
-img .left {
+img.left {
   float: left;
 }
 
-img .right {
+img.right {
   float: right;
 }
 
-img .center {
+img.center {
   margin: 0 auto;
 }
 
