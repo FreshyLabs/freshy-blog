@@ -934,6 +934,11 @@ table.plain {
         font-size: 1.1rem;
     }
 
+    img.large {
+      width:300px;
+      margin: 10px;
+    }
+
 }
 
 img.small {
